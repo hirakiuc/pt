@@ -1,3 +1,4 @@
 .pt
 *.gem
 Gemfile.lock
+.bundle
